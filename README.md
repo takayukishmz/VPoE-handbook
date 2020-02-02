@@ -1,11 +1,10 @@
 # VPoE handbook
 
-- 私がVPoE Handbookをかこうと思った理由
-
+- 私がVPoE Handbookを書こうと思った理由
 
 # sections
 
-- VPoEのはじまり
+- VPoEの歴史
 - VPoEに求められる責務
 - VPoEに求められる役割
 - VPoEの具体的な仕事
