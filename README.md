@@ -1,6 +1,6 @@
 # VPoE handbook
 
-- [私がVPoE Handbookを書こうと思った理由](https://github.com/takayukishmz/VPoE-handbook/blob/master/why-I-decided-to-write-a-VPoE-Handbook-ja.md)
+- [私がVPoE handbookを書こうと思った理由](https://github.com/takayukishmz/VPoE-handbook/blob/master/why-I-decided-to-write-a-VPoE-Handbook-ja.md)
 
 # sections
 
