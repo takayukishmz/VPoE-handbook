@@ -66,4 +66,4 @@ onlineの記事ではこのころから少しづくVPoEに関する記事を見�
 このあとはこれらの記事の内容も踏まえながら、VPoEの具体的な定義や役割について整理していきます。
 
 prev: [私がVPoE handbookを書こうと思った理由](https://github.com/takayukishmz/VPoE-handbook/blob/master/why-I-decided-to-write-a-VPoE-Handbook-ja.md)<br>
-next: VPoEに求められる責務
+next: [VPoEに求められる責務](https://github.com/takayukishmz/VPoE-handbook/blob/master/responsibilities-of-vpoe-ja.md)

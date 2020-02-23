@@ -63,5 +63,5 @@ CTOとの棲み分けはまた別途となりますが、CTOが技術的な戦�
 この点をしっかり抑えることで、VPoEとして見るべき視野が広がり、アプローチも多面的に考えるべきだということがわかってきます。
 
 
-previous: [VPoEの歴史]() <br>
+previous: [VPoEの歴史](https://github.com/takayukishmz/VPoE-handbook/blob/master/responsibilities-of-vpoe-ja.md) <br>
 next: VPoEに求められる役割
