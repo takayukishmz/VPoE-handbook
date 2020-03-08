@@ -64,4 +64,4 @@ CTOとの棲み分けはまた別途となりますが、CTOが技術的な戦�
 
 
 previous: [VPoEの歴史](https://github.com/takayukishmz/VPoE-handbook/blob/master/responsibilities-of-vpoe-ja.md) <br>
-next: VPoEに求められる役割
+next: [VPoEに求められる役割](https://github.com/takayukishmz/VPoE-handbook/blob/master/roles-requred-for-vpoe-ja.md)

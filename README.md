@@ -6,7 +6,7 @@
 
 - [VPoEの歴史](https://github.com/takayukishmz/VPoE-handbook/blob/master/origin-of-vpoe-ja.md)
 - [VPoEに求められる責務](https://github.com/takayukishmz/VPoE-handbook/blob/master/responsibilities-of-vpoe-ja.md)
-- VPoEに求められる役割
+- [VPoEに求められる役割](https://github.com/takayukishmz/VPoE-handbook/blob/master/roles-requred-for-vpoe-ja.md)
 - VPoEの具体的な仕事
 - コラム・寄稿
 
