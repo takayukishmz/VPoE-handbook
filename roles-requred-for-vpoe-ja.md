@@ -17,7 +17,7 @@ Executionを最大化するためにVPoEが担うべき役割は
 - Tech Management
 - Budget Management
 
-まずは必須の責務であろう4つの役割（①Project Management②Process Management③Team Build④People&Culture Management）について説明していきます。
+まずは必須の4つの役割（①Project Management②Process Management③Team Build④People&Culture Management）について説明していきます。
 
 ## 1. Project Management
 
@@ -33,7 +33,7 @@ Wikipediaによると [プロジェクトマネジメント](https://ja.wikipedi
 
 Executionやプロジェクトマネジメントというと、時間軸で予定通りに物事が進んだかのスケジュール面をマネジメントすることはどこの組織でも重視されることでしょう。もちろんそれも大事ですが、「成功裏に完了」にはQCD＝Quality,Cost,Deliveryのようにさまざまな観点を総合してのより高いレベルでの成功を目指すことになります。
 
-プロジェクトマネジメントを分解していくととても幅が広く様々な領域があるので、ここではすべて細かく触れませんが、[PMBOK https://ja.wikipedia.org/wiki/PMBOK]の知識カテゴリを参照するとこれだけのものが関わってきます。
+プロジェクトマネジメントを分解していくととても幅が広く様々な領域があるので、ここではすべて細かく触れませんが、[PMBOK](https://ja.wikipedia.org/wiki/PMBOK)の知識カテゴリを参照するとこれだけのものが関わってきます。
 
 
  - プロジェクト `統合` マネジメント
