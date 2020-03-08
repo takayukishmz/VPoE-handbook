@@ -120,5 +120,5 @@ VPoEの他の役割の基礎になる部分でもあるため、VPoEの必要性
 
 次は、それやの役割を果たす上での具体的な仕事についていくつか紹介していきたいと思います。
 
-previous: [VPoEに求められる責務](https://github.com/takayukishmz/VPoE-handbook/blob/master/responsibilities-of-vpoe-ja.md)
+previous: [VPoEに求められる責務](https://github.com/takayukishmz/VPoE-handbook/blob/master/responsibilities-of-vpoe-ja.md)<br>
 next: VPoEの具体的な仕事
