@@ -1,8 +1,8 @@
-#　VPoEの具体的な仕事
+# VPoEの具体的な仕事
 
 VPoEの責務や役割を理解できたら、次はもっと具体的な仕事について理解していきましょう。
 
-VPoEは、Executionに責任をもち、そのために Project Management 　/ Process Management / Team Build / People&Culture Managementの4つが必要だと前章までで書きましたが,
+VPoEは、Executionに責任をもち、そのために Project Management / Process Management / Team Build / People&Culture Managementの4つが必要だと前章までで書きましたが,
 それをVPoEとして日々実行する上でやるべきことは多々あります。EngineeringManagerの仕事と似たものもあれば、VPoEの責務だからこそでてくるものもあります。
 
 このセクションでは、今後VPoEとして動く上で最低限観点・きっかけができることをゴールとするため内容は概要やポイントのみにとどめますが、そこで自分の課題やさらに深堀りするべき部分をみつけ、さらに学んでいってもらう手助けになればと思います。
