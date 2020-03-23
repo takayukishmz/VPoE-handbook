@@ -10,7 +10,7 @@
 - [VPoEの具体的な仕事](https://github.com/takayukishmz/VPoE-handbook/blob/master/the-job-of-vpoe-ja.md)
   - [VPoEの仕事はVPoEが決める](https://github.com/takayukishmz/VPoE-handbook/blob/master/the-job-of-vpoe-is-decided-by-vpoe-ja.md)
     - [コラム：DSTで戦略をたてる](https://github.com/takayukishmz/VPoE-handbook/blob/master/DST-framework-for-building-strategy-ha.md)
-  - 開発ロードマップ
+  - [開発ロードマップ](https://github.com/takayukishmz/VPoE-handbook/blob/master/development-roadmap-ja.md)
   - 進行管理・デリバリー
   - 開発プロセス設計・改善
   - 人員のアロケーション
