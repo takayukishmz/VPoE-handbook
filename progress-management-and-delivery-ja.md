@@ -1,4 +1,4 @@
-# 進行管理・デリバリー
+# 進行管理・デリバリー：見える化と包括的な課題解決アプローチ
 
 
 進行管理・デリバリーとは、[開発ロードマップをつくる](https://github.com/takayukishmz/VPoE-handbook/blob/master/development-roadmap-ja.md)で描いた計画を、確実に実行に移し実現していくことです。
