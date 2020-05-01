@@ -13,9 +13,9 @@
   - [開発ロードマップ](https://github.com/takayukishmz/VPoE-handbook/blob/master/development-roadmap-ja.md)
   - [進行管理・デリバリー](https://github.com/takayukishmz/VPoE-handbook/blob/master/progress-management-and-delivery-ja.md)
   - [開発プロセス設計・改善](https://github.com/takayukishmz/VPoE-handbook/blob/master/development-process-design-improvement-ja.md)
-  - [人員のアロケーション](https://github.com/takayukishmz/VPoE-handbook/blob/master/human-resource-allocation-ja.md)
-  - 人員のアサイン
-  - 採用
+  - [人員のアロケーション：大きなインパクトと責任の伴う仕事](https://github.com/takayukishmz/VPoE-handbook/blob/master/human-resource-allocation-ja.md)
+  - [人員のアサイン：より大胆に戦略的に](https://github.com/takayukishmz/VPoE-handbook/blob/master/human-resource-assign-ja.md)
+  - 採用：成長に必須の最重要タスク
   - 育成
 - コラム・寄稿
 
