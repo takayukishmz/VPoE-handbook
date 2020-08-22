@@ -1,3 +1,8 @@
+# VPoE handbook 完成版はNoteに移行しました 2020/08/22
+https://note.com/shimizu/m/m42bb29bfa24a
+
+Noteに移行しました。完成版をご覧になりたい方は[こちら](https://note.com/shimizu/m/m42bb29bfa24a)。
+
 # VPoE handbook
 
 - [私がVPoE handbookを書こうと思った理由](https://github.com/takayukishmz/VPoE-handbook/blob/master/why-I-decided-to-write-a-VPoE-Handbook-ja.md)
